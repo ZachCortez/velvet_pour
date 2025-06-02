@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-// @ts-ignore
+// @ts-expect-error
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
