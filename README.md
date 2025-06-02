@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-  <a href="https://ibb.co/Hcz4ZDp">
-    <img src="https://i.ibb.co/GZ2pmv3/Screenshot-2025-05-31-231010.png" alt="Velvet Pour Screenshot" border="0" />
+  <a href="https://velvet-pour-gamma.vercel.app/">
+    <img src="https://i.ibb.co/GZ2pmv3/Screenshot-2025-05-31-231010.png" alt="Velvet | Pour" border="0" />
   </a>
   <br />
 
