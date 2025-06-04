@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <a href="https://velvet-pour-gamma.vercel.app/">
-    <img src="https://i.ibb.co/GZ2pmv3/Screenshot-2025-05-31-231010.png" alt="Velvet | Pour" border="0" />
+    <img src="https://i.ibb.co/GZ2pmv3/Screenshot-2025-05-31-231010.png" alt="Velvet Pour Screenshot" border="0" />
   </a>
   <br />
 
@@ -27,13 +27,13 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="25" height="25" /> Introduction
+## <a name="introduction"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="25" height="25" /> Introduction</a>
 
 **Velvet Pour** is a rich and atmospheric animated landing page designed for a high-end bar. Built using **React**, **GSAP**, and **Tailwind CSS**, this project showcases buttery-smooth scroll animations, aesthetic layout transitions, and a sleek modern vibe meant to capture the ambiance of a luxury nightlife experience.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Tech Stack
+## <a name="tech-stack"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Tech Stack</a>
 
 - **[React 19](https://reactjs.org/)** – Component-based UI development.
 - **[GSAP](https://greensock.com/gsap/)** – Animation library for timeline-based scroll effects and interactive motion.
@@ -43,7 +43,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="25" height="25" /> Features
+## <a name="features"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="25" height="25" /> Features</a>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" />**Responsive Layout**: Fully optimized for desktop and mobile devices.
 
@@ -57,7 +57,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Quick Start
+## <a name="quick-start"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Quick Start</a>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />Prerequisites
 
@@ -67,8 +67,14 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="25" height="25" /> Installation
 
 ```bash
-# Vite Project Creation
-npm create vite@latest ./
+# 1. Clone the repository
+git clone https://github.com/ZachCortez/velvet-pour.git
 
-# Install dependencies
+# 2. Navigate into the project directory
+cd velvet-pour
+
+# 3. Install dependencies
 npm install
+
+# 4. Start the development server
+npm run dev
